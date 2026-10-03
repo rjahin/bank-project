@@ -7,8 +7,8 @@ Before starting the project, fill in the team members below:
 
 | Role | Name
 |--|--|
-|Engineer 1|`________________________`
-|Engineer 2|`________________________`
+|Engineer 1|`Rehonoma Hasan Jahin`
+|Engineer 2|`Khan Adeel`
 |Engineer 3|`________________________`
 
 > **Important:** The engineer assigned to each task is responsible for completing that task and contributing it to the team repository.
